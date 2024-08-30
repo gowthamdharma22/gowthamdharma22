@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m pursuing BE CSE on MKCE<br>🌱 I’m currently working as a Fullstack Developer at Codingmart Technologies
+🌱 I’m currently working as a Fullstack Engineer
 
 
 ## 🌐 Socials:
